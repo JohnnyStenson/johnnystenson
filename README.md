@@ -10,4 +10,5 @@ Dataloader, Testing and Maintenance, while Documenting the Creative Solutions, b
 engineered successful optimization of business processes.
 
 [Salesforce Trailblazer Profile](https://trailblazer.me/id/johnnystenson)
+
 [Profile on LinkedIn with Resume](https://www.linkedin.com/in/johnjstenson/)
