@@ -8,3 +8,6 @@ Ajax, JSON, MySQL, HTML, CSS) and Project Management skills to Architect an Org 
 Models, Automated Processes, Simple and Efficient UIs, LWC, Lightning Flows, Lightning Pages, CPQ, ERP App, Apex, API Integration,
 Dataloader, Testing and Maintenance, while Documenting the Creative Solutions, before Implementing and Training user. We
 engineered successful optimization of business processes.
+
+[Salesforce Trailblazer Profile](https://trailblazer.me/id/johnnystenson)
+[Profile on LinkedIn with Resume](https://www.linkedin.com/in/johnjstenson/)
