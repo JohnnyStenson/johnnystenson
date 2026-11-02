@@ -1,14 +1,20 @@
-### Salesforce Developer & Certified Admin | Experienced Full Stack LAMP App Developer
+# John Stenson
+**Business systems & automation developer.** I build the software that runs a
+business day to day: quoting, inventory, project tracking, and the integrations
+between them.
 
-**I want to continue my Salesforce Developer Career Path with an experienced development team.**
+## What I do
+- Turn manual, spreadsheet-driven processes into working systems, from requirements through build and user training
+- Connect platforms with REST/SOAP APIs (Salesforce, Airtable, PayPal)
+- Stack: PHP/MySQL/JavaScript (LAMP), Python, SQL, Apex/LWC, VB/Excel automation
 
-Self-taught Developer and **Certified Salesforce Administrator** implementing 2 Production Orgs, for a Construction Company and a
-separate Sales Team. Working with Stakeholders and Users, I used my diverse App Development Experience (PHP, JavaScript, jQuery,
-Ajax, JSON, MySQL, HTML, CSS) and Project Management skills to Architect an Org with Complex Custom Configurations and Data
-Models, Automated Processes, Simple and Efficient UIs, LWC, Lightning Flows, Lightning Pages, CPQ, ERP App, Apex, API Integration,
-Dataloader, Testing and Maintenance, while Documenting the Creative Solutions, before Implementing and Training user. We
-engineered successful optimization of business processes.
+## Selected work
+- **[inventory-toolkit](https://github.com/JohnnyStenson/inventory-toolkit)**: mobile web app for field technicians to consume inventory, create repair orders and restock, synced to Salesforce over the SOAP API
+- **[salesforce-cpq-quotecalculatorplugin](https://github.com/JohnnyStenson/salesforce-cpq-quotecalculatorplugin)**: turns blueprint takeoff measurements into volume-based quotes
+- **[orgDevShowcase](https://github.com/JohnnyStenson/orgDevShowcase)**: Apex, LWC and Flow source from the Salesforce org I built for a construction company
 
-[Salesforce Trailblazer Profile](https://trailblazer.me/id/johnnystenson)
+## Background
+M.S. Financial Mathematics (IIT). 20+ years automating trading operations with
+VB, Excel and Python. Built and ran Salesforce for a construction company (2016–2022).
 
-[Profile on LinkedIn with Resume](https://www.linkedin.com/in/johnjstenson/)
+[LinkedIn](https://www.linkedin.com/in/johnjstenson)
